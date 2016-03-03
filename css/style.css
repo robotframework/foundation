@@ -1,0 +1,504 @@
+@import url(https://fonts.googleapis.com/css?family=Lato|Raleway&subset=latin,latin-ext);
+
+p {
+  font-family: 'Raleway';
+  font-weight: 300;
+  font-size: 16px;
+  color: #424753;
+  line-height: 32px;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 45px;
+  line-height: 53px;
+}
+
+h2 {
+  font-family: 'Raleway';
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 59px;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
+  line-height: 33px;
+}
+
+h4 {
+  font-family: 'Raleway';
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 33px;
+}
+
+
+/* Extra Small devices (mobiles, 320px and up) */
+
+
+/* Small devices (tablets, 768px and up) */
+
+
+/* Medium devices (desktops, 992px and up) */
+
+
+/* Large devices (large desktops, 1200px and up) */
+
+.noSpace {
+  padding: 0px;
+}
+
+section {
+  padding-bottom: 50px;
+}
+
+.darkBg {
+  background: #344659;
+}
+
+.darkBg h1,
+.darkBg h2,
+.darkBg h3,
+.darkBg h4,
+.darkBg p {
+  color: white;
+}
+
+.lightBg {
+  background: #F4F5F7;
+}
+
+header {
+  background: #000715;
+  padding: 130px 0px;
+  color: white;
+}
+
+header h3 {
+  font-family: 'Raleway';
+  font-weight: 300;
+  font-size: 21px;
+  color: #FFFFFF;
+  line-height: 15px;
+}
+
+header h1 {
+  position: relative;
+  display: inline-block;
+  padding-bottom: 20px;
+  font-family: 'Raleway';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFFFF;
+  line-height: 43px;
+}
+
+header h1:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background: #F1C40F;
+}
+
+header h2 {
+  /* TL;DR short explanation : */
+  font-family: 'Raleway';
+  font-weight: 300;
+  font-size: 18px;
+  color: #FFFFFF;
+  line-height: 25px;
+}
+
+nav {
+  width: 100%;
+  background: #344659;
+  color: white;
+  padding: 0 50px;
+}
+
+nav ul {
+  min-height: 50px;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  display: table;
+}
+
+nav ul li {
+  list-style: none;
+  float: left;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  nav ul li {
+    display: block;
+    width: 100%;
+  }
+}
+
+nav ul li a {
+  width: 100%;
+  display: block;
+  margin-left: 10px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  color: #F5F5F5;
+  line-height: 50px;
+}
+
+#aboutContent {
+  background: #F4F5F7;
+}
+
+#aboutContent h1 {
+  font-family: 'Raleway';
+  font-weight: 600;
+  font-size: 40px;
+  color: #424753;
+  line-height: 47px;
+}
+
+#aboutContent h2 {
+  font-size: 18px;
+  color: #4A4A4A;
+  line-height: 26px;
+}
+
+#aboutContent p {
+  font-family: 'Raleway';
+  font-weight: 300;
+  font-size: 16px;
+  color: #424753;
+  line-height: 32px;
+}
+
+#aboutContent .aboutTextContent {
+  padding: 50px;
+}
+
+#aboutContent #aboutImage {
+  background: url("../images/aboutBg.jpg") no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+#aboutContent .darkBg {
+  background: #344659;
+}
+
+#aboutContent .darkBg h1,
+#aboutContent .darkBg h2,
+#aboutContent .darkBg p {
+  color: white;
+}
+
+#howTo {
+  padding: 50px 0px;
+}
+
+#howTo p {
+  padding: 50px;
+}
+
+.howToTextContainer {
+  padding: 30px;
+}
+
+#costBox {
+  position: relative;
+  margin-top: 20px;
+  border-radius: 5px;
+  border: solid 2px #344659;
+}
+
+#costBox #costBoxHeading {
+  width: 100%;
+  background: #344659;
+  color: white;
+  text-align: center;
+  padding: 5px 0px;
+}
+
+#costBox #costBoxHeading h1 {
+  margin: 0px;
+}
+
+#costBox #costBoxContent {
+  padding: 20px;
+}
+
+#costBox #costPrice {
+  position: relative;
+  width: 130px;
+  height: 70px;
+  margin: 0 auto;
+}
+
+#costBox #costPrice #euro {
+  position: absolute;
+  top: 25px;
+  left: 84px;
+  font-size: 28px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}
+
+#costBox #costPrice #price {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 68px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+
+#costBox #costPrice #year {
+  position: absolute;
+  bottom: -11px;
+  left: 80px;
+  font-size: 13px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  color: #424753;
+}
+
+#costBox ul {
+  list-style: none;
+  margin: 0px;
+  margin-top: 40px;
+  padding: 0px;
+}
+
+#costBox ul li {
+  margin: 10px 0px;
+  width: 100%;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  border-bottom: solid 1px #EDEDEF;
+  padding-bottom: 10px;
+}
+
+#costBox #costDetails {
+  padding: 50px 0px;
+}
+
+#membersSlider {
+  background: url(../images/membersBg.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+  min-height: 400px;
+  padding-top: 50px;
+  margin-top: 20px;
+}
+
+#membersSlider .bxslider {
+  position: relative;
+  width: 100%;
+  height: 230px;
+  margin: 0px;
+  padding: 0px;
+}
+
+#membersSlider .membersThumbnail {
+  width: 80px;
+  height: 80px;
+  border-radius: 200px;
+  background: white;
+  line-height: 80px;
+  overflow: hidden;
+  margin: 10px auto;
+}
+
+#membersSlider .membersThumbnail img {
+  width: 75%;
+  height: auto;
+}
+
+#membersSlider .membersThumbnail.dark {
+  background: black;
+}
+
+#membersSlider .membersThumbnail.small {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+}
+
+#membersSlider .membersDetails {
+  position: relative;
+  width: 400px;
+  margin: 0 auto;
+}
+
+#membersSlider .membersDetails p {
+  font-size: 19px;
+  font-family: Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia, serif;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 25px;
+  color: white;
+}
+
+#membersSlider .membersName {
+  position: relative;
+  display: inline-block;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: white;
+  font-size: 11px;
+  margin: 0px;
+  line-height: 10px;
+  padding-bottom: 5px;
+}
+
+#membersSlider .membersName:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 10px;
+  width: 100%;
+  height: 2px;
+  background: #F1C40F;
+  background-position: center bottom;
+}
+
+#membersSlider #bx-pager .membersThumbnail {
+  display: inline-block;
+}
+
+#usecesesBoxes .usecesesBoxesContent {
+  border-radius: 3px;
+  border: solid 1px #E0E0E5;
+  text-align: center;
+}
+
+#usecesesBoxes .usecesesBoxesContent .usecesesImage {
+  min-height: 150px;
+  max-height: 150px;
+  line-height: 150px;
+}
+
+#usecesesBoxes .usecesesBoxesContent img {
+  position: relative;
+  margin: 10px auto;
+  width: 70%;
+  height: auto;
+}
+
+#usecesesBoxes .usecesesBoxesContent p {
+  margin-top: 10px;
+  font-size: 13px;
+  line-height: 25px;
+  text-align: left;
+  padding: 10px;
+  min-height: 200px;
+}
+
+#usecesesBoxes .usecesesBoxesContent .readMore {
+  border-top: solid 1px #E0E0E5;
+  min-height: 50px;
+  line-height: 50px;
+}
+
+#usecesesBoxes .usecesesBoxesContent .readMore a {
+  border-radius: 30px;
+  background: #344659;
+  padding: 7px 15px;
+  color: white;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 10px;
+}
+
+#contactContainer {
+  background: #F4F5F7;
+  display: block;
+  width: 100%;
+  height: auto;
+  padding: 20px 0px;
+}
+
+#contactForm textarea {
+  height: 180px;
+}
+
+#contactForm .btn-default {
+  border-radius: 30px;
+  background: #344659;
+  padding: 10px 40px;
+  color: white;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 14px;
+  border: none;
+}
+
+#boardmeetingContainer h3 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+#boardmeetingContainer ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+#boardmeetingContainer ul li {
+  margin: 10px 0px;
+  font-family: 'Raleway', sans-serif;
+}
+
+#mailingListContent {
+  background: url(../images/mailinglistBg.jpg) no-repeat;
+  width: 100%;
+  min-height: 390px;
+  background-size: cover;
+  background-position: center center;
+  color: white;
+}
+
+#mailingListContent #mailingListForm {
+  position: relative;
+  margin: 0 auto;
+  top: 80px;
+}
+
+#mailingListContent #mailingListForm p {
+  color: white;
+  line-height: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+#mailingListContent #mailingListForm input {
+  max-width: 320px;
+  margin: 0 auto;
+}
+
+#mailingListContent #mailingListForm .btn-default {
+  position: relative;
+  top: 20px;
+  border-radius: 30px;
+  background: #344659;
+  padding: 10px 40px;
+  color: white;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 14px;
+  border: none;
+}
