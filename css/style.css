@@ -524,7 +524,7 @@ nav ul li a {
 	}
 }
 
-.usecesesBoxes .usecesesBoxesContent {
+.usecasesBoxes .usecasesBoxesContent {
   border-radius: 3px;
   border: solid 1px #E0E0E5;
   background: white;
@@ -532,19 +532,19 @@ nav ul li a {
   margin-bottom: 20px;
 }
 
-.usecesesBoxes .usecesesBoxesContent .usecesesImage {
+.usecasesBoxes .usecasesBoxesContent .usecasesImage {
   min-height: 150px;
   max-height: 150px;
   line-height: 150px;
 }
 
-.usecesesBoxes .usecesesBoxesContent img {
+.usecasesBoxes .usecasesBoxesContent img {
   position: relative;
   margin: 10px auto;
   height: auto;
 }
 
-.usecesesBoxes .usecesesBoxesContent p {
+.usecasesBoxes .usecasesBoxesContent p {
   margin-top: 10px;
   font-size: 13px;
   line-height: 25px;
@@ -553,13 +553,13 @@ nav ul li a {
   min-height: 150px;
 }
 
-.usecesesBoxes .usecesesBoxesContent .readMore {
+.usecasesBoxes .usecasesBoxesContent .readMore {
   border-top: solid 1px #E0E0E5;
   min-height: 50px;
   line-height: 50px;
 }
 
-.usecesesBoxes .usecesesBoxesContent .readMore a {
+.usecasesBoxes .usecasesBoxesContent .readMore a {
   border-radius: 30px;
   background: #344659;
   padding: 7px 15px;
