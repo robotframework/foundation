@@ -593,9 +593,6 @@ nav ul li a {
   width: 100%;
   height: auto;
   padding: 20px 0px 0px 0px;
-}
-
-#mailingListContent {
   background: url(../images/mailinglistBg.jpg) no-repeat;
   width: 100%;
   min-height: 290px;
@@ -604,19 +601,12 @@ nav ul li a {
   color: white;
 }
 
-#mailingListContent #mailingListForm {
-  position: relative;
-  width: 500px;
-  margin: 0 auto;
-  top: 80px;
-}
-
-#mailingListContent #mailingListForm p {
+#contact p {
   color: white;
   line-height: 20px;
 }
 
-#mailingListContent #mailingListForm p a {
+#contact p a {
   color: white;
   font-size: 18px;
   font-weight: bold;
