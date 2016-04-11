@@ -581,7 +581,7 @@ nav ul li a {
   display: block;
   width: 100%;
   height: auto;
-  padding: 20px 0px;
+  padding: 20px 0px 0px 0px;
 }
 
 #mailingListContent {
