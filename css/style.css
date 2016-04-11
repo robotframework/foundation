@@ -6045,10 +6045,14 @@ nav {
       background-position: center bottom; }
   #membersSlider #bx-pager .membersThumbnail {
     display: inline-block; }
+#usecasesContent{
+	background: #F4F5F7;
+}
 
 #usecesesBoxes .usecesesBoxesContent {
   border-radius: 3px;
   border: solid 1px #E0E0E5;
+  background: white;
   text-align: center; }
   #usecesesBoxes .usecesesBoxesContent .usecesesImage {
     min-height: 150px;
