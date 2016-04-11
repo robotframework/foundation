@@ -511,6 +511,18 @@ nav ul li a {
   background: #F4F5F7;
 }
 
+.mobileColumn{
+	position: relative; 
+	left: 150px;
+}
+
+@media (max-width: 766px) {
+	.mobileColumn{
+	position: relative; 
+	left: 0;
+	}
+}
+
 .usecesesBoxes .usecesesBoxesContent {
   border-radius: 3px;
   border: solid 1px #E0E0E5;
