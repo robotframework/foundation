@@ -364,7 +364,8 @@ section {
 
 .darkBg h1,
 .darkBg h4,
-.darkBg p {
+.darkBg p,
+.darkBg ul {
   color: white;
 }
 
