@@ -513,15 +513,15 @@ nav ul li a {
 }
 
 .mobileColumn{
-	position: relative;
-	left: 150px;
+  position: relative;
+  left: 150px;
 }
 
 @media (max-width: 1198px) {
-	.mobileColumn{
-	position: relative;
-	left: 0;
-	}
+  .mobileColumn{
+  position: relative;
+  left: 0;
+  }
 }
 
 .usecasesBoxes .usecasesBoxesContent {
