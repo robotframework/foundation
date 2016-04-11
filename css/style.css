@@ -515,6 +515,16 @@ nav ul li a {
   margin-top: 40px;
 }
 
+#costsTable caption {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#costsTable th {
+  font-weight: normal;
+  font-style: italic;
+}
+
 #members {
   background: #F4F5F7;
 }
