@@ -5881,6 +5881,11 @@ nav {
     font-size: 40px;
     color: #424753;
     line-height: 47px; }
+    #aboutContent h1 {
+    @media (min-width: 320px) and (max-width: 767px) {
+	   	font-size: 20px!important; 
+    }
+   }
   #aboutContent h2 {
     font-family: SourceSansPro-Regular;
     font-size: 18px;
@@ -5896,7 +5901,12 @@ nav {
   #aboutContent #aboutImage {
     background: url("../images/aboutBg.jpg") no-repeat;
     background-size: cover;
-    background-position: center center; }
+    background-position: center center; 
+    }
+   @media (min-width: 320px) and (max-width: 767px) {
+	     #aboutContent #aboutImage {
+	    height: 215px!important;}
+    }   
   #aboutContent .darkBg {
     background: #344659; }
     #aboutContent .darkBg h1, #aboutContent .darkBg h2, #aboutContent .darkBg p {
