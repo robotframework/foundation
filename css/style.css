@@ -432,12 +432,18 @@ nav ul {
 nav ul li {
   list-style: none;
   float: left;
+  padding-left: 20px;
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
   nav ul li {
     display: block;
     width: 100%;
+    padding: 0;
+  }
+
+  nav ul li a {
+    text-align: center;
   }
 }
 
