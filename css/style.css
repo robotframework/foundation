@@ -544,17 +544,13 @@ nav ul li a {
   height: auto;
 }
 
-
-
-}
-
 .usecesesBoxes .usecesesBoxesContent p {
   margin-top: 10px;
   font-size: 13px;
   line-height: 25px;
   text-align: left;
   padding: 10px;
-  min-height: 224px;
+  min-height: 150px;
 }
 
 .usecesesBoxes .usecesesBoxesContent .readMore {
