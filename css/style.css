@@ -512,13 +512,13 @@ nav ul li a {
 }
 
 .mobileColumn{
-	position: relative; 
+	position: relative;
 	left: 150px;
 }
 
 @media (max-width: 766px) {
 	.mobileColumn{
-	position: relative; 
+	position: relative;
 	left: 0;
 	}
 }
