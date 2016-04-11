@@ -484,7 +484,7 @@ nav ul li a {
 }
 
 #who-we-are .aboutTextContent {
-  padding: 50px;
+  padding-bottom: 50px;
 }
 
 #who-we-are #aboutImage {
@@ -503,7 +503,7 @@ nav ul li a {
   background: #344659;
 }
 
-#howTo {
+.section-header {
   padding: 50px 0px 0px 0px;
 }
 
