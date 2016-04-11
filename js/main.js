@@ -13,7 +13,7 @@ $(document).ready(function() {
     mode: 'fade',
     controls: false
   });
-  
+
   $('nav a[href^="#"]').on('click', function(e) {
     e.preventDefault();
 

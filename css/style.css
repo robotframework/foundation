@@ -457,48 +457,48 @@ nav ul li a {
   line-height: 50px;
 }
 
-#aboutContent {
+#who-we-are {
   background: #F4F5F7;
 }
 
-#aboutContent h1 {
+#who-we-are h1 {
   font-family: Raleway-SemiBold;
   font-size: 40px;
   color: #424753;
   line-height: 47px;
 }
 
-#aboutContent h2 {
+#who-we-are h2 {
   font-family: SourceSansPro-Regular;
   font-size: 18px;
   color: #4A4A4A;
   line-height: 26px;
 }
 
-#aboutContent p {
+#who-we-are p {
   font-family: Raleway-Light;
   font-size: 16px;
   color: #424753;
   line-height: 32px;
 }
 
-#aboutContent .aboutTextContent {
+#who-we-are .aboutTextContent {
   padding: 50px;
 }
 
-#aboutContent #aboutImage {
+#who-we-are #aboutImage {
   background: url("../images/aboutBg.jpg") no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
-  #aboutContent #aboutImage {
+  #who-we-are #aboutImage {
     height: 215px!important;
   }
 }
 
-#whatWeDoContainer {
+#what-we-do {
   background: #344659;
 }
 
@@ -514,7 +514,7 @@ nav ul li a {
   padding: 30px;
 }
 
-#membersContainer {
+#members {
   background: #F4F5F7;
 }
 
@@ -576,7 +576,7 @@ nav ul li a {
   font-size: 10px;
 }
 
-#contactContent {
+#contact {
   background: #F4F5F7;
   display: block;
   width: 100%;
