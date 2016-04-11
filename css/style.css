@@ -326,7 +326,7 @@ h1 {
 
 h2 {
   font-family: Raleway-SemiBold;
-  font-size: 50px;
+  font-size: 36px;
   line-height: 59px;
 }
 
@@ -365,7 +365,8 @@ section {
 .darkBg h1,
 .darkBg h4,
 .darkBg p,
-.darkBg ul {
+.darkBg ul,
+.darkBg table {
   color: white;
 }
 
@@ -503,15 +504,15 @@ nav ul li a {
 }
 
 #howTo {
-  padding: 50px 0px;
+  padding: 50px 0px 0px 0px;
 }
 
 #howTo p {
-  padding: 50px;
+  padding: 20px 50px;
 }
 
-.howToTextContainer {
-  padding: 30px;
+#costsTable {
+  margin-top: 40px;
 }
 
 #members {
