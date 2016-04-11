@@ -6049,32 +6049,32 @@ nav {
 	background: #F4F5F7;
 }
 
-#usecesesBoxes .usecesesBoxesContent {
+.usecesesBoxes .usecesesBoxesContent {
   border-radius: 3px;
   border: solid 1px #E0E0E5;
   background: white;
-  text-align: center; }
-  #usecesesBoxes .usecesesBoxesContent .usecesesImage {
+  text-align: center; margin-bottom: 20px;}
+  .usecesesBoxes .usecesesBoxesContent .usecesesImage {
     min-height: 150px;
     max-height: 150px;
     line-height: 150px; }
-  #usecesesBoxes .usecesesBoxesContent img {
+  .usecesesBoxes .usecesesBoxesContent img {
     position: relative;
     margin: 10px auto;
     width: 70%;
     height: auto; }
-  #usecesesBoxes .usecesesBoxesContent p {
+  .usecesesBoxes .usecesesBoxesContent p {
     margin-top: 10px;
     font-size: 13px;
     line-height: 25px;
     text-align: left;
     padding: 10px;
     min-height: 200px; }
-  #usecesesBoxes .usecesesBoxesContent .readMore {
+  .usecesesBoxes .usecesesBoxesContent .readMore {
     border-top: solid 1px #E0E0E5;
     min-height: 50px;
     line-height: 50px; }
-    #usecesesBoxes .usecesesBoxesContent .readMore a {
+    .usecesesBoxes .usecesesBoxesContent .readMore a {
       border-radius: 30px;
       background: #344659;
       padding: 7px 15px;
@@ -6135,7 +6135,7 @@ nav {
       color: white;
       line-height: 20px; }
      #mailingListContent #mailingListForm p a{
-	     color: white;
+	     color: white
      }
     #mailingListContent #mailingListForm .btn-default {
       position: relative;
