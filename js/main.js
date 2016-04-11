@@ -14,7 +14,7 @@ $(document).ready(function() {
     controls: false
   });
 
-  $('nav a[href^="#"]').on('click', function(e) {
+  $('a[href^="#"]').on('click', function(e) {
     e.preventDefault();
 
     var target = this.hash;
