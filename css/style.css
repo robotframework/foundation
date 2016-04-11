@@ -6122,7 +6122,7 @@ nav {
 #mailingListContent {
   background: url(../images/mailinglistBg.jpg) no-repeat;
   width: 100%;
-  min-height: 390px;
+  min-height: 290px;
   background-size: cover;
   background-position: center center;
   color: white; }
@@ -6134,6 +6134,9 @@ nav {
     #mailingListContent #mailingListForm p {
       color: white;
       line-height: 20px; }
+     #mailingListContent #mailingListForm p a{
+	     color: white;
+     }
     #mailingListContent #mailingListForm .btn-default {
       position: relative;
       top: 20px;
