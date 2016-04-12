@@ -567,7 +567,13 @@ nav ul li a {
   line-height: 25px;
   text-align: left;
   padding: 10px;
-  min-height: 150px;
+  min-height: 170px;
+}
+
+@media screen and (max-width: 1370px) {
+	.usecasesBoxes .usecasesBoxesContent p {
+	  min-height: 223px;
+	}
 }
 
 .usecasesBoxes .usecasesBoxesContent .readMore {
