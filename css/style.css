@@ -546,6 +546,15 @@ nav ul li a:hover, nav ul li a:focus {
   font-style: italic;
 }
 
+.discountList {
+  list-style-type: none;
+  text-align: center;
+}
+
+.discountList span {
+  font-size: 1.2em;
+}
+
 #members {
   background: #F4F5F7;
 }
