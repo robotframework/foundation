@@ -547,12 +547,13 @@ nav ul li a:hover, nav ul li a:focus {
 }
 
 .discountList {
-  list-style-type: none;
-  text-align: center;
+  margin: 0 auto;
 }
 
-.discountList span {
+.discountList tr > td:last-of-type {
   font-size: 1.2em;
+  text-align: right;
+  padding-left: 20px;
 }
 
 #members {
