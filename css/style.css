@@ -548,6 +548,7 @@ nav ul li a:hover, nav ul li a:focus {
 
 .discountList {
   margin: 0 auto;
+  color: #424753;
 }
 
 .discountList tr > td:last-of-type {
