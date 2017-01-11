@@ -541,9 +541,10 @@ nav ul li a:hover, nav ul li a:focus {
   font-weight: bold;
 }
 
-.costsTable th {
+.costsTable thead > tr > th {
   font-weight: normal;
   font-style: italic;
+  vertical-align: top;
 }
 
 .discountList {
