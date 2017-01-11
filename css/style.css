@@ -507,20 +507,24 @@ nav ul li a {
   padding: 50px 0px 0px 0px;
 }
 
+#howTo {
+  margin-bottom: 40px;
+}
+
 #howTo p {
   padding: 5px 50px;
 }
 
-#costsTable {
-  margin-top: 40px;
+.costsTable {
+  margin-bottom: 2em;
 }
 
-#costsTable caption {
+.costsTable caption {
   font-size: 18px;
   font-weight: bold;
 }
 
-#costsTable th {
+.costsTable th {
   font-weight: normal;
   font-style: italic;
 }
