@@ -8,12 +8,6 @@ $(document).ready(function() {
     $('#aboutImage').css('height', elementHeight);
   });
 
-  $('.bxslider').bxSlider({
-    pagerCustom: '#bx-pager',
-    mode: 'fade',
-    controls: false
-  });
-
   $('a[href^="#"]').on('click', function(e) {
     e.preventDefault();
 
@@ -22,6 +16,8 @@ $(document).ready(function() {
 
     $('html, body').stop().animate({
       'scrollTop': $target.offset().top
-    }, 900, 'swing');
+    }, 400, 'swing');
   });
+
+  $('nav').affix({ 'offset': $('nav').offset().top })
 });

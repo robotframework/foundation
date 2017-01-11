@@ -185,6 +185,19 @@ p {
   margin: 0 0 10px;
 }
 
+.affix-top {
+    position: absolute;
+    z-index: 50;
+}
+
+.affix {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 50;
+  width: 100%;
+}
+
 .text-center {
   text-align: center;
 }
@@ -456,6 +469,10 @@ nav ul li a {
   font-size: 16px;
   color: #F5F5F5;
   line-height: 50px;
+}
+
+nav ul li a:hover, nav ul li a:focus {
+  color: #F5F5F5;
 }
 
 #who-we-are {
