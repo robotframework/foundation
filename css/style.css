@@ -328,7 +328,7 @@ p {
   font-family: Raleway-Light;
   font-size: 16px;
   color: #424753;
-  line-height: 32px;
+  line-height: 1.8em;
 }
 
 h1 {
@@ -497,7 +497,6 @@ nav ul li a:hover, nav ul li a:focus {
   font-family: Raleway-Light;
   font-size: 16px;
   color: #424753;
-  line-height: 32px;
 }
 
 #who-we-are .aboutTextContent {
@@ -558,7 +557,7 @@ nav ul li a:hover, nav ul li a:focus {
   padding-left: 20px;
 }
 
-#members {
+#members, .notice {
   background: #F4F5F7;
 }
 
