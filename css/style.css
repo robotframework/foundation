@@ -449,18 +449,6 @@ nav ul li {
   padding-left: 20px;
 }
 
-@media (min-width: 320px) and (max-width: 767px) {
-  nav ul li {
-    display: block;
-    width: 100%;
-    padding: 0;
-  }
-
-  nav ul li a {
-    text-align: center;
-  }
-}
-
 nav ul li a {
   width: 100%;
   display: block;
@@ -469,6 +457,19 @@ nav ul li a {
   font-size: 16px;
   color: #F5F5F5;
   line-height: 50px;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  nav ul li {
+    display: inline-block;
+    width: auto;
+    padding: 0;
+  }
+
+  nav ul li a {
+    text-align: center;
+    font-size: 0.7em;
+  }
 }
 
 nav ul li a:hover, nav ul li a:focus {
