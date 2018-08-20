@@ -85,7 +85,7 @@ export default {
               {
                 title: "Botlabs",
                 href: "https://www.botlabs.fi/",
-                img: require("@/assets/img/users/nokia.png"),
+                img: require("@/assets/img/users/botlabs.jpg"),
                 text:
                   "Botlabs Oy is an expert in Test Automation, DevOps and RPA. Botlabs uses Robot Framework as the main technology in Test Automation offering for our customers. Our mission is to give customers the best knowledge and capabilities to reach their digitalization goals."
               },
@@ -235,6 +235,13 @@ export default {
                 img: require("@/assets/img/users/vala.jpg"),
                 text:
                   "VALA Group provides outstanding software development and quality assurance services by utilizing automation, co-operation and intelligent tool selection for companies ranging from start-ups to major publicly listed companies. Our greatest strenghts include Test Automation, QA Process Consultation and Quality Driven Software Development."
+              },
+              {
+                title: "imbus",
+                href: "https://www.imbus.de/softwaretest/",
+                img: require("@/assets/img/users/imbus.png"),
+                text:
+                  "imbus is a German leading solution partner for professional software testing and intelligent software quality assurance. The portfolio includes consulting for process improvement as well as test automation, test tools, and training. Since 1992, imbus has been synonymous with smart test automation."
               }
             ]
           }
