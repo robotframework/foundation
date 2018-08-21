@@ -139,6 +139,13 @@ export default {
                   "HiQ is a Nordic ICT service and consultancy company focusing on streamlining our customers' businesses and simplifying people's lives. We are specialists in demanding e-services, process integration and automation, quality assurance and business-critical IT."
               },
               {
+                title: "imbus",
+                href: "https://www.imbus.de/softwaretest/",
+                img: require("@/assets/img/users/imbus.png"),
+                text:
+                  "imbus is a German leading solution partner for professional software testing and intelligent software quality assurance. The portfolio includes consulting for process improvement as well as test automation, test tools, and training. Since 1992, imbus has been synonymous with smart test automation."
+              },
+              {
                 title: "knowit",
                 href: "http://www.knowit.fi/",
                 img: require("@/assets/img/users/knowit.jpg"),
@@ -235,13 +242,6 @@ export default {
                 img: require("@/assets/img/users/vala.jpg"),
                 text:
                   "VALA Group provides outstanding software development and quality assurance services by utilizing automation, co-operation and intelligent tool selection for companies ranging from start-ups to major publicly listed companies. Our greatest strenghts include Test Automation, QA Process Consultation and Quality Driven Software Development."
-              },
-              {
-                title: "imbus",
-                href: "https://www.imbus.de/softwaretest/",
-                img: require("@/assets/img/users/imbus.png"),
-                text:
-                  "imbus is a German leading solution partner for professional software testing and intelligent software quality assurance. The portfolio includes consulting for process improvement as well as test automation, test tools, and training. Since 1992, imbus has been synonymous with smart test automation."
               }
             ]
           }
