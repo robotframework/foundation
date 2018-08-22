@@ -87,7 +87,7 @@ export default {
                 href: "https://www.botlabs.fi/",
                 img: require("@/assets/img/users/botlabs.jpg"),
                 text:
-                  "Botlabs Oy is an expert in Test Automation, DevOps and RPA. Botlabs uses Robot Framework as the main technology in Test Automation offering for our customers. Our mission is to give customers the best knowledge and capabilities to reach their digitalization goals."
+                  "Botlabs Oy is an expert in RPA, software robots, and DevOps. Botlabs uses Robot Framework as the main technology in RPA offering for our customers. Our mission is to give customers the best knowledge and capabilities to reach their digitalization goals."
               },
               {
                 title: "comiq",
