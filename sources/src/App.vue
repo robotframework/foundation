@@ -90,6 +90,13 @@ export default {
                   "Botlabs Oy is an expert in RPA, software robots, and DevOps. Botlabs uses Robot Framework as the main technology in RPA offering for our customers. Our mission is to give customers the best knowledge and capabilities to reach their digitalization goals."
               },
               {
+                title: "cisco",
+                href: "https://www.cisco.com/",
+                img: require("@/assets/img/users/cisco.jpg"),
+                text:
+                  "Cisco’s Customer Experience (CX) supports the testing & validation of Cisco and 3rd party solutions deployed by our customers. This includes Solution Validation Services (SVS) delivered both on Cisco-premise and customer-premise as part of a NetDevOps (CI/CD) process where continuous validation accelerates technology adoption, de-risks IT deployments, changes and upgrades, and ensures complex migrations are transparent."
+              },
+              {
                 title: "comiq",
                 href: "http://comiq.fi/",
                 img: require("@/assets/img/users/comiq.jpg"),
@@ -247,7 +254,7 @@ export default {
           }
         }
       ]
-    } 
+    }
   }
 };
 </script>
