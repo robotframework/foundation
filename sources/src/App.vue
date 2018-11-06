@@ -181,6 +181,13 @@ export default {
                   "Navigate Consulting is an independent Consultant Company, working with services in the Nordic IT-market. We started our business in 2003, and have since the beginning built a leading software services company, with focus on Quality Assurance."
               },
               {
+                title: "nets",
+                href: "https://www.nets.eu/",
+                img: require("@/assets/img/users/nets.jpg"),
+                text:
+                  "At Nets, we see easier products and solutions as the foundation for growth and progress – both in commerce and society. With 2,400 employees located in Denmark, Norway, Finland, Sweden and Estonia, we help financial institutions, businesses and merchants across the Nordic and Baltic regions make tomorrow a little easier for their customers while delivering unrivalled security and stability. Powering a tomorrow that’s easier than today. This is what drives us."
+              },
+              {
                 title: "opuscapita",
                 href: "https://www.opuscapita.com/",
                 img: require("@/assets/img/users/opuscapita.jpg"),
