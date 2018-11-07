@@ -12,11 +12,11 @@
        <twitter-timeline class="p-xs-5 p-lg-0" id="robotframework" widget-class="twitterprofile" sourceType="profile" :options="options"/>
      </div>
      </div>
-     <div v-if="data.priceTable == true" class="row order-3 ml-md-3 justify-content-end">
-       <b-table class="col-sm-6 col-md-8 order-3 ml-3" striped hover :items="items" :fields="fields"></b-table>
+     <div v-if="data.priceTable == true" class="row order-3 ml-sm-1 justify-content-end col-md-8 float-right">
+       <b-table striped hover :items="items" :fields="fields"></b-table>
      </div>
      <div v-if="typeof data.textAfterTable == 'string'" class="row justify-content-end">
-      <div v-html="data.textAfterTable" class="ml-2 col-sm-12 col-md-8 order-3"/>
+      <div v-html="data.textAfterTable" class="ml-3 col-sm-12 col-md-8 order-3"/>
     </div>
   </div>
 </template>
