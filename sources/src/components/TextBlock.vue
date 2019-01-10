@@ -15,9 +15,10 @@
      <div v-if="data.priceTable == true" class="row order-3 ml-sm-1 justify-content-end col-md-8 float-right">
        <b-table striped hover :items="items" :fields="fields"></b-table>
      </div>
-     <div v-if="typeof data.textAfterTable == 'string'" class="row justify-content-end">
+     <div v-if="typeof data.textAfterTable == 'string'" class="row justify-content-end float-right">
       <div v-html="data.textAfterTable" class="ml-3 col-sm-12 col-md-8 order-3"/>
     </div>
+    <div style="clear: both"></div>
   </div>
 </template>
 
