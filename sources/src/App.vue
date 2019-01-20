@@ -251,6 +251,13 @@ export default {
                   "Testimate provides comprehensive and independent high-quality software testing services for small and large systems or products. Our employees are versatile testing experts with several years of experience in testing, managing and leading testing and test automation using commercial and open source tools. We know we are good at what we do – and our clients agree!"
               },
               {
+                title: "tieto",
+                href: "http://www.tieto.com/",
+                img: require("@/assets/img/users/tieto.jpg"),
+                text:
+                  "Tieto aims to capture the significant opportunities of the data-driven world and turn them into lifelong value for people, business and society. We aim to be customers' first choice for business renewal by combining our software and services capabilities with a strong drive for co-innovation and ecosystems."
+              },
+              {
                 title: "vala",
                 href: "http://www.valagroup.com/",
                 img: require("@/assets/img/users/vala.jpg"),
