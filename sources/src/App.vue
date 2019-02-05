@@ -83,13 +83,6 @@ export default {
             },
             users: [
               {
-                title: "Botlabs",
-                href: "https://www.botlabs.fi/",
-                img: require("@/assets/img/users/botlabs.jpg"),
-                text:
-                  "Botlabs Oy is an expert in RPA, software robots, and DevOps. Botlabs uses Robot Framework as the main technology in RPA offering for our customers. Our mission is to give customers the best knowledge and capabilities to reach their digitalization goals."
-              },
-              {
                 title: "cisco",
                 href: "https://www.cisco.com/",
                 img: require("@/assets/img/users/cisco.jpg"),
