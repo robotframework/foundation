@@ -97,6 +97,13 @@ export default {
                   "Comiq is a Finnish software quality service provider founded in 2003 employing around 60 QA consultants. Our expertise in quality assurance services helps our customers achieve their quality targets for their business critical IT projects."
               },
               {
+                title: "deutsche post adress",
+                href: "https://www.deutschepost.de/de/p/postadress.html",
+                img: require("@/assets/img/users/deutsche post.png"),
+                text:
+                  "Deutsche Post Adress GmbH & Co. KG is the leading specialist for data quality solutions in Germany. It’s a joint venture between Deutsche Post, the biggest logistical and postal company in the world, and Bertelsmann, the largest media company in Europe. With our services we ensure the success of a company’s dialogue marketing by correcting, updating and managing their addresses. Since 2014 we are using the robot framework for test and process automation."
+              },
+              {
                 title: "digia",
                 href: "http://www.digia.com/",
                 img: require("@/assets/img/users/digia.jpg"),
