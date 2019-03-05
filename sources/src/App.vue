@@ -216,6 +216,13 @@ export default {
                   "Reaktor is a creative technology house that constructs exceptional digital services. We build services for clients specializing in finance, retail, media, telecommunications, in-flight services and the public sector."
               },
               {
+                title: "robocorp",
+                href: "https://robocorptech.com/",
+                img: require("@/assets/img/users/robocorp.png"),
+                text:
+                  "Robocorp is set out to change Robotic Process Automation. RPA has the potential to change how millions of people work every day and Robocorp is making it accessible to everyone through license-free open source technologies, delivered from a cloud platform."
+              },
+              {
                 title: "siili",
                 href: "http://www.siili.com/",
                 img: require("@/assets/img/users/siili.jpg"),
