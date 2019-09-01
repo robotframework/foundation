@@ -263,6 +263,13 @@ export default {
                 img: require("@/assets/img/users/vala.jpg"),
                 text:
                   "VALA Group provides outstanding software development and quality assurance services by utilizing automation, co-operation and intelligent tool selection for companies ranging from start-ups to major publicly listed companies. Our greatest strenghts include Test Automation, QA Process Consultation and Quality Driven Software Development."
+              },
+              {
+                title: "veikkaus",
+                href: "https://www.veikkaus.fi/",
+                img: require("@/assets/img/users/veikkaus.png"),
+                text:
+                  "Almost all adult Finns play our games; at Veikkaus we have over two million loyal customers. Thanks to the players, over one billion euros a year are accumulated for the common good. Robot Framework plays a key role in our test automation and RPA."
               }
             ]
           }
