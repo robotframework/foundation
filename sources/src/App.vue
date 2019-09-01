@@ -230,13 +230,6 @@ export default {
                   "We are a modern, full-service technology company. We help you create better business and meaningful digital experiences by combining strategic insight, creative design, data management, and technology expertise."
               },
               {
-                title: "sogeti",
-                href: "https://www.sogeti.fi/",
-                img: require("@/assets/img/users/sogeti.jpg"),
-                text:
-                  "Sogeti Finland is a leading provider of quality assurance, technology and engineering services, enabling digital transformation and offering cutting-edge expertise in Cloud, Cybersecurity, Digital Manufacturing, Quality Assurance & Testing, and emerging technologies."
-              },
-              {
                 title: "solidabis",
                 href: "http://www.solidabis.com/",
                 img: require("@/assets/img/users/solidabis.jpg"),
