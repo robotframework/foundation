@@ -188,6 +188,13 @@ export default {
                   "At Nets, we see easier products and solutions as the foundation for growth and progress – both in commerce and society. With 2,400 employees located in Denmark, Norway, Finland, Sweden and Estonia, we help financial institutions, businesses and merchants across the Nordic and Baltic regions make tomorrow a little easier for their customers while delivering unrivalled security and stability. Powering a tomorrow that’s easier than today. This is what drives us."
               },
               {
+                title: "nokia",
+                href: "https://www.nokia.com/",
+                img: require("@/assets/img/users/nokia.png"),
+                text:
+                  "Nokia develops and delivers the telecommunications industry's only end-to-end portfolio of network equipment, software, services and licensing that is available globally. Nokia also serves consumers with technology and devices. First versions of Robot Framework were developed in Nokia and Robot Framework is extensively used and developed further in Nokia today."
+              },
+              {
                 title: "opuscapita",
                 href: "https://www.opuscapita.com/",
                 img: require("@/assets/img/users/opuscapita.jpg"),
