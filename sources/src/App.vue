@@ -211,9 +211,9 @@ export default {
               {
                 title: "qentinel",
                 href: "http://qentinel.fi/",
-                img: require("@/assets/img/users/qentinel.jpg"),
+                img: require("@/assets/img/users/qentinel.png"),
                 text:
-                  "Qentinel is a Finnish company that specialises in information system quality assurance, offering a comprehensive range of services in this field with years of experience in the industry. We ensure the quality of information systems throughout their life cycle from business requirements to production."
+                  "Qentinel is the leading robotic software testing company applying system thinking and AI to maximize value creation. We have over hundred enthusiastic specialists who create the next generation of automated QA without humans in the loop. We believe your business is as good as software driving it."
               },
               {
                 title: "reaktor",
