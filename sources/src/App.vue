@@ -195,6 +195,13 @@ export default {
                   "Nokia develops and delivers the telecommunications industry's only end-to-end portfolio of network equipment, software, services and licensing that is available globally. Nokia also serves consumers with technology and devices. First versions of Robot Framework were developed in Nokia and Robot Framework is extensively used and developed further in Nokia today."
               },
               {
+                title: "northcode",
+                href: "http://northcode.com/",
+                img: require("@/assets/img/users/northcode.png"),
+                text:
+                  "NorthCode offers professional consultation services in different areas of software development."
+              },
+              {
                 title: "opuscapita",
                 href: "https://www.opuscapita.com/",
                 img: require("@/assets/img/users/opuscapita.jpg"),
@@ -228,6 +235,13 @@ export default {
                 img: require("@/assets/img/users/robocorp.png"),
                 text:
                   "Robocorp is set out to change Robotic Process Automation. RPA has the potential to change how millions of people work every day and Robocorp is making it accessible to everyone through license-free open source technologies, delivered from a cloud platform."
+              },
+              {
+                title: "segron",
+                href: "https://www.segron.com",
+                img: require("@/assets/img/users/segron.png"),
+                text:
+                  "SEGRON provides Beyond End2End Test Automation solutions for communication networks. Our unique Automated Test Framework approach can orchestrate real-time testing with Out-of-the-Box end-user devices (iOS and Android smartphones and IoT devices). We strive to offer the industry expertise and reliable service that businesses look for in a long-term test automation partner."
               },
               {
                 title: "siili",
