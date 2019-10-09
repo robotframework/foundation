@@ -244,6 +244,13 @@ export default {
                   "SEGRON provides Beyond End2End Test Automation solutions for communication networks. Our unique Automated Test Framework approach can orchestrate real-time testing with Out-of-the-Box end-user devices (iOS and Android smartphones and IoT devices). We strive to offer the industry expertise and reliable service that businesses look for in a long-term test automation partner."
               },
               {
+                title: "signant health",
+                href: "https://signanthealth.com",
+                img: require("@/assets/img/users/signant.png"),
+                text:
+                  "Signant Health (formerly known as CRF Health, the 4th unicorn from Finland) is a Product Company creating eCOA product platform in regulated business area. We use Robot Framework and Python for our test automation in our offices in Helsinki and Iasi, Romania. We understand the importance of quality in software development. We are good, but we want to be the best in our industry."
+              },
+              {
                 title: "siili",
                 href: "http://www.siili.com/",
                 img: require("@/assets/img/users/siili.jpg"),
