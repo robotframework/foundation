@@ -196,7 +196,7 @@ export default {
               },
               {
                 title: "northcode",
-                href: "http://northcode.com/",
+                href: "https://northcode.fi/",
                 img: require("@/assets/img/users/northcode.png"),
                 text:
                   "NorthCode offers professional consultation services in different areas of software development."
