@@ -83,6 +83,13 @@ export default {
             },
             users: [
               {
+                title: "Chili",
+                href: "https://www.chili.com/",
+                img: require("@/assets/img/users/chili.jpg"),
+                text:
+                  "CHILI is a European Entertainment Company. CHILI has developed the first and only Entertainment Centred Marketplace, which is a unique experience offering cinema and tv series fans:<br>- information and reviews about cinema previews<br>- a geo-localised movie theatrical’s show times<br>- all the new releases in digital form, months before pay tv<br>- a catalogue of thousands of digital films, tv series, DVDs and Blu-Ray<br>- the possibility to buy together original merchandising of your favourite Character and - choose gadgets from the films.<br>- and lots more"
+              },
+              {
                 title: "cisco",
                 href: "https://www.cisco.com/",
                 img: require("@/assets/img/users/cisco.jpg"),
