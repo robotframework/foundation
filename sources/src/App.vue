@@ -209,6 +209,13 @@ export default {
                   "NorthCode offers professional consultation services in different areas of software development."
               },
               {
+                title: "op",
+                href: "https://www.op.fi/op-ryhma",
+                img: require("@/assets/img/users/op.png"),
+                text:
+                  "OP Financial Group is Finland's largest financial services group whose mission is to promote the sustainable prosperity, security and wellbeing of its owner-customers and business environment. The Group has a staff of 12,000 and almost 2 million owner-customers. OP uses Robot Framework for improving our agile testing quality and CI/CD, as well for bringing more customer satisfaction with the RPA capabilities."
+              },
+              {
                 title: "opuscapita",
                 href: "https://www.opuscapita.com/",
                 img: require("@/assets/img/users/opuscapita.jpg"),
