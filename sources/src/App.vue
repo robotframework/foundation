@@ -167,6 +167,13 @@ export default {
                   "Knowit is a consulting company that helps its clients succeed by operating close and in an innovative, business-oriented way. With our large pool of test automation professionals, we can ensure highest software quality and gain immediate and future savings."
               },
               {
+                title: "kuka",
+                href: "http://www.kuka.com/",
+                img: require("@/assets/img/users/kuka.png"),
+                text:
+                  "There is a good reason why KUKA products can be found in virtually every industry: our portfolio offers perfectly matched automation solutions for more efficient manufacturing processes – from just a single robot to specialized cells through to complete system concepts."
+              },
+              {
                 title: "luoto",
                 href: "https://www.luotocompany.fi/",
                 img: require("@/assets/img/users/luoto.jpg"),
