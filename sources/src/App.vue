@@ -94,7 +94,7 @@ export default {
                 href: "https://www.capgemini.com",
                 img: require("@/assets/img/users/capgemini.png"),
                 text:
-                  "A global leader in consulting, technology services and digital transformation, Capgemini is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital and platforms. Building on its strong 50-year heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services from strategy to operations."
+                  "Capgemini Netherlands is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital and platforms. Building on its strong 50-year heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services from strategy to operations."
               },
               {
                 title: "Chili",
