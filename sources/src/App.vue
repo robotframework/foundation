@@ -202,13 +202,6 @@ export default {
                   "Meliora Ltd develops Meliora Testlab, a cutting edge test management tool. Testlab integrates with Robot Framework to leanly give full visibility on quality – seamlessly integrating manual and automated testing efforts with specifications and issues."
               },
               {
-                title: "navigate",
-                href: "https://www.navigateconsulting.se/",
-                img: require("@/assets/img/users/navigate.jpg"),
-                text:
-                  "Navigate Consulting is an independent Consultant Company, working with services in the Nordic IT-market. We started our business in 2003, and have since the beginning built a leading software services company, with focus on Quality Assurance."
-              },
-              {
                 title: "nets",
                 href: "https://www.nets.eu/",
                 img: require("@/assets/img/users/nets.jpg"),
@@ -291,13 +284,6 @@ export default {
                 img: require("@/assets/img/users/siili.jpg"),
                 text:
                   "We are a modern, full-service technology company. We help you create better business and meaningful digital experiences by combining strategic insight, creative design, data management, and technology expertise."
-              },
-              {
-                title: "solidabis",
-                href: "http://www.solidabis.com/",
-                img: require("@/assets/img/users/solidabis.jpg"),
-                text:
-                  "Solidabis is a new agile and hungry company in the Finnish IT market. The core group of the company consists of seasoned business, service design, software development and testing veterans. Solidabis combines business and digitalization know-how with the best technical experience in software development."
               },
               {
                 title: "symbio",
