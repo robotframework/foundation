@@ -146,6 +146,13 @@ export default {
                   "Eliga is a one-man company owned and operated by Pekka Klärck, the original author and lead developer of Robot Framework. It offers first class training and consulting services related to using and extending Robot Framework, test automation in general and Python programming."
               },
               {
+                title: "ennuviz",
+                href: "https://www.ennuviz.com/",
+                img: require("@/assets/img/users/ennuviz.png"),
+                text:
+                  "Ennuviz offer Digital Transformation solutions to business to Streamline, Optimize Operating Cost and Deliver better Customer Experience and Employee Empowerment. Our unique combination of skills, methodologies, framework, tools and governance with well-proven accelerators and assets backed by our 100 years of technology and industry experience. Our expertise helps organization to realize the value of Digital Transformation investment."
+              },
+              {
                 title: "etteplan",
                 href: "http://www.espotel.com/",
                 img: require("@/assets/img/users/etteplan.png"),
@@ -235,6 +242,13 @@ export default {
                 img: require("@/assets/img/users/opuscapita.jpg"),
                 text:
                   "OpusCapita enables organizations to sell, buy and pay quickly and securely, with a real-time view of their business. Over 3000 customers in over 100 countries use our source-to-pay, cash management and product information management solutions to connect, transact and grow."
+              },
+              {
+                title: "ouro",
+                href: "https://www.ouro.fi/",
+                img: require("@/assets/img/users/ouro.png"),
+                text:
+                  "Ouro is a Finnish company providing software automation solutions, including test automation and CI/CD pipeline development. We enable our customers to use modern software development tools, methods and practices."
               },
               {
                 title: "qfactory",
