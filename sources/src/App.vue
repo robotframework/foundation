@@ -160,6 +160,13 @@ export default {
                   "Ennuviz offer Digital Transformation solutions to business to Streamline, Optimize Operating Cost and Deliver better Customer Experience and Employee Empowerment. Our unique combination of skills, methodologies, framework, tools and governance with well-proven accelerators and assets backed by our 100 years of technology and industry experience. Our expertise helps organization to realize the value of Digital Transformation investment."
               },
               {
+                title: "eTestingAcademy",
+                href: "http://etestingacademy.com/",
+                img: require("@/assets/img/users/etestingacademy.png"),
+                text:
+                  "Online Training Company for growing community and educating them on Robot Framework."
+              },
+              {
                 title: "etteplan",
                 href: "http://www.espotel.com/",
                 img: require("@/assets/img/users/etteplan.png"),
