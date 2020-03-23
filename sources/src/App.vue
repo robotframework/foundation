@@ -241,7 +241,7 @@ export default {
                 href: "https://www.northcode.fi/",
                 img: require("@/assets/img/users/northcode.png"),
                 text:
-                  "We do everything related to Software Automation (SA). DevOps, DevSecOps, Robotic Process Automation, Test Automation, CI/CD etc, you name it and we do it!  We have a distributive model because we see the company as a community. The cornerstones of the model are ownership, fairness and transparency. Automation is the catalyst for technical revolution. SA frees people to work with more complex matters in order to achieve prosperity for mankind!"
+                  "We do everything related to Software Automation (SA). DevOps, DevSecOps, Robotic Process Automation, Test Automation, CI/CD etc, you name it and we do it!  We have a disruptive model in the way how we see the company as a community. The cornerstones of the model are ownership, fairness and transparency. Automation is the catalyst for technical revolution. SA frees people to work with more complex matters in order to achieve prosperity for mankind!"
               },
               {
                 title: "op",
