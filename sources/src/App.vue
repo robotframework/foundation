@@ -287,7 +287,7 @@ export default {
               },
               {
                 title: "robocorp",
-                href: "https://robocorptech.com/",
+                href: "https://robocorp.com/",
                 img: require("@/assets/img/users/robocorp.png"),
                 text:
                   "Robocorp is set out to change Robotic Process Automation. RPA has the potential to change how millions of people work every day and Robocorp is making it accessible to everyone through license-free open source technologies, delivered from a cloud platform."
