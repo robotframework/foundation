@@ -188,6 +188,13 @@ export default {
                   "HiQ is a Nordic ICT service and consultancy company focusing on streamlining our customers' businesses and simplifying people's lives. We are specialists in demanding e-services, process integration and automation, quality assurance and business-critical IT."
               },
               {
+                title: "humanitec",
+                href: "https://humanitec.com/",
+                img: require("@/assets/img/users/humanitec.png"),
+                text:
+                  "Humanitec is a software engineering company based in Berlin, Germany. Our team is building a platform to automate the continuous delivery process for Kubernetes-native applications. We believe that every developer in a team should be able to deploy apps to cloud resources without having to learn all the technical details and that DevOps experts should focus on what really matters and not on repetitive tasks. Our overall goal is to develop an open DevOps API to master Continuous Delivery."
+              },
+              {
                 title: "imbus",
                 href: "https://www.imbus.de/softwaretest/",
                 img: require("@/assets/img/users/imbus.png"),
