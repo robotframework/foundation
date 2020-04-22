@@ -83,6 +83,13 @@ export default {
             },
             users: [
               {
+                title: "Aito Intelligence",
+                href: "https://aito.ai/rpa/",
+                img: require("@/assets/img/users/aito.png"),
+                text:
+                  "Aito’s provides predictions for intelligent automation. Robot software developers can use Aito’s  machine learning faster and cost effectively to add intelligence to their workflows. <br>Based on in-house and patent pending innovations, Aito combines a database and machine learning to run together, removing loads of burdens of traditional machine learning projects: (1) learns real-time with added data instead of continuous retraining, (2) automatically chooses features and supports linked tables instead of asking user to do loads of dataprep, (3) can predict any categorical value instead of being fixed to pre-determined model outputs, (4) is query based instead of requiring to set up model deployment and scalability and (5) is familiar to developers instead of requiring a phd in stats.<br>Aito enables workflows that require less human interventions."
+              },
+              {
                 title: "Aktia",
                 href: "https://www.aktia.fi/",
                 img: require("@/assets/img/users/aktia.png"),
