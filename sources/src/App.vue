@@ -131,6 +131,13 @@ export default {
                   "Comiq is a Finnish software quality service provider founded in 2003 employing around 60 QA consultants. Our expertise in quality assurance services helps our customers achieve their quality targets for their business critical IT projects."
               },
               {
+                title: "DB Schenker",
+                href: "https://www.dbschenker.com/global/about/profile",
+                img: require("@/assets/img/users/dbchenker.png"),
+                text:
+                  "DB Schenker is the world’s largest global logistics provider. The company manages IT development across Technology Solution Center hubs located in Warsaw (PL), Nanjing (CN) and Delhi (IN). To keep high quality of delivered IT solutions, we use a RobotFramework to ensure fast and reliable regression testing for both our legacy and agile projects. Our experts ensure transparency in delivered quality and continuously improve their framework."
+              },
+              {
                 title: "deutsche post adress",
                 href: "https://www.deutschepost.de/de/p/postadress.html",
                 img: require("@/assets/img/users/deutsche post.png"),
@@ -178,6 +185,13 @@ export default {
                 img: require("@/assets/img/users/etteplan.png"),
                 text:
                   "Etteplan is a specialist in industrial equipment engineering, embedded systems and IoT and technical documentation solutions and services with deep knowledge in QA from network edge to cloud in Nordics. Etteplan provides also consulting services in test automation and QA process development."
+              },
+              {
+                title: "facile",
+                href: "https://www.facile.it/",
+                img: require("@/assets/img/users/facile.png"),
+                text:
+                  "Facile.it, Italy's leading price comparison company for insurance, financial services, utilities and internet providers. The company, founded in 2008, helps approximately 3 million users every month compare prices and save money on crucial elements of their household expenditure. Facile.it is an internet company with more than 300 employees in its Milano Headquarters and 1,000 total, and generated revenues of €106 million in 2019, growing more than 20% on top line with organic growth."
               },
               {
                 title: "finnair",
