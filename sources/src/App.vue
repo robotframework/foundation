@@ -96,18 +96,11 @@ export default {
                   "Aktia is a Finnish asset manager, bank and life insurer that has been creating wealth and well-being from one generation to the next already for 200 years. We serve our customers through digital channels everywhere and face-to-face in our offices in the Helsinki region as well as in Oulu, Tampere, Turku and Vaasa regions. Funds in our awarded asset management are sold also internationally to institutional clients. We employ approximately 800 people around Finland. In Aktia Robot Framework is used for test automation to guarantee the quality we deliver to our customers."
               },
               {
-                title: "AppTestify",
-                href: "https://apptestify.com",
-                img: require("@/assets/img/users/apptestify.png"),
-                text:
-                  "AppTestify on-demand application testing helps ship code faster, Our fully managed testing solution allows you to analyze the user experience of the targeted audience and discover the issues before your customers find. Save time, cost and improve the quality and usability of your applications. We offer all type of testing services like Functional Testing, Load & Performance Testing, Test Automation"
-              },
-              {
                 title: "Capgemini",
                 href: "https://www.capgemini.com",
                 img: require("@/assets/img/users/capgemini.png"),
                 text:
-                  "A global leader in consulting, technology services and digital transformation, Capgemini is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital and platforms."
+                  "Capgemini Netherlands is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital and platforms. Building on its strong 50-year heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services from strategy to operations."
               },
               {
                 title: "Chili",
