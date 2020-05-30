@@ -36,7 +36,7 @@ export default {
               twitter: false,
               header: "Who we are",
               text:
-                '<p> <a href="https://robotframework.org/">Robot Framework</a> is a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA). It has simple plain text syntax and it can be extended easily with libraries implemented using Python or Java. <br><br><b>Robot Framework Foundation</b> is a non-profit consortium that fosters the growth of Robot Framework. It was founded by companies with a common interest to ensure the development of framework now and in the future. </p>'
+                '<p> <a href="https://robotframework.org/">Robot Framework</a> is a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA). It has simple plain text syntax and it can be extended easily with libraries implemented using Python or Java. <br><br><b>Robot Framework Foundation</b> is a non-profit consortium that fosters the growth of Robot Framework. It was founded by companies with a common interest to ensure the development of framework now and in the future. <a href="https://forum.robotframework.org/t/robot-framework-foundation-unfolded/276">Click here if you want to know more.</a></p>'
             }
           }
         },
