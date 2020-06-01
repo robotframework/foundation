@@ -159,13 +159,6 @@ export default {
                   "Eliga is a one-man company owned and operated by Pekka Klärck, the original author and lead developer of Robot Framework. It offers first class training and consulting services related to using and extending Robot Framework, test automation in general and Python programming."
               },
               {
-                title: "ennuviz",
-                href: "https://www.ennuviz.com/",
-                img: require("@/assets/img/users/ennuviz.png"),
-                text:
-                  "Ennuviz offer Digital Transformation solutions to business to Streamline, Optimize Operating Cost and Deliver better Customer Experience and Employee Empowerment. Our unique combination of skills, methodologies, framework, tools and governance with well-proven accelerators and assets backed by our 100 years of technology and industry experience. Our expertise helps organization to realize the value of Digital Transformation investment."
-              },
-              {
                 title: "eTestingAcademy",
                 href: "http://etestingacademy.com/",
                 img: require("@/assets/img/users/etestingacademy.png"),
