@@ -96,6 +96,13 @@ export default {
                   "Aktia is a Finnish asset manager, bank and life insurer that has been creating wealth and well-being from one generation to the next already for 200 years. We serve our customers through digital channels everywhere and face-to-face in our offices in the Helsinki region as well as in Oulu, Tampere, Turku and Vaasa regions. Funds in our awarded asset management are sold also internationally to institutional clients. We employ approximately 800 people around Finland. In Aktia Robot Framework is used for test automation to guarantee the quality we deliver to our customers."
               },
               {
+                title: "Botlabs",
+                href: "https://botlabs.fi/en/home/",
+                img: require("@/assets/img/users/Botlabs.jpg"),
+                text:
+                  "Botlabs provides your company with modern software robotics and digitalization services. We want to humanize people’s work by outsourcing difficult and tedious tasks to robots, giving people time to do what they do best, which is to make decisions and communicate."
+              },
+              {
                 title: "Capgemini",
                 href: "https://www.capgemini.com",
                 img: require("@/assets/img/users/capgemini.png"),
