@@ -64,7 +64,7 @@ export default {
               priceTable: true,
               header: "How to join",
               text:
-                "<p> The main benefit of being a member is assuring the future of Robot Framework. A more concrete benefit is that these member companies and organizations are listed here, making their Robot Framework knowledge or usage more visible. <br><br>If the company or organization you represent is interested to join:<br>1) Fill in the following application: <a href='https://forms.gle/devoS2X3jEyqBE1x7' target='blank'>https://forms.gle/devoS2X3jEyqBE1x7</a><br>2) We’ll make a voting according to our rules<br>3) You are added to the webpage and mailing list, when you are accepted<br>4) Welcome to make the world of Open Source and Automation better!<br><br>If you have any questions related to the membership, please send an email to robotframework-foundation@googlegroups.com and we will get back to you.</p>",
+                "<p> The main benefit of being a member is assuring the future of Robot Framework. A more concrete benefit is that these member companies and organizations are listed here, making their Robot Framework knowledge or usage more visible. <br><br>If the company or organization you represent is interested to join:<br>1) Fill in the following application: <a href='https://forms.gle/devoS2X3jEyqBE1x7' target='blank'>https://forms.gle/devoS2X3jEyqBE1x7</a><br>2) We’ll make a voting according to our rules<br>3) You are added to the webpage and mailing list, when you are accepted<br>4) Welcome to make the world of Open Source and Automation better!<br><br>If you have any questions related to the membership, please send an email to <a href='mailto:robotframework-foundation@googlegroups.com'>robotframework-foundation@googlegroups.com</a> and we will get back to you.<br><br></b><b>For existing members</b><br>If your contact person changes and for other such matters, please contact <a href='mailto:admin@robotframework.org'>admin@robotframework.org</a></b></p>",
             }
           }
         },
@@ -164,13 +164,6 @@ export default {
                 img: require("@/assets/img/users/eliga.jpg"),
                 text:
                   "Eliga is a one-man company owned and operated by Pekka Klärck, the original author and lead developer of Robot Framework. It offers first class training and consulting services related to using and extending Robot Framework, test automation in general and Python programming."
-              },
-              {
-                title: "eTestingAcademy",
-                href: "http://etestingacademy.com/",
-                img: require("@/assets/img/users/etestingacademy.png"),
-                text:
-                  "Online Training Company for growing community and educating them on Robot Framework."
               },
               {
                 title: "etteplan",
