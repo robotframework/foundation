@@ -187,6 +187,13 @@ export default {
                   "Finnair is using Robot Framework to support Finnair digital platform development."
               },
               {
+                title: "henix",
+                href: "https://www.henix.com",
+                img: require("@/assets/img/users/henix.png"),
+                text:
+                  "Henix is a French consulting company specializing in software quality assurance. By offering a wide range of services including test automation using Robot Framework, it has become the leading pure player test company in France. Since 2011, Henix is the publisher of the Squash Open Source testing suite. Made by testers for testers, it interfaces natively with Robot Framework to ease test automation management as efficiently as manual tests."
+              },
+              {
                 title: "hiq",
                 href: "http://www.hiqfinland.fi/",
                 img: require("@/assets/img/users/hiq.jpg"),
