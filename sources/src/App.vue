@@ -278,6 +278,13 @@ export default {
                   "OpusCapita enables organizations to sell, buy and pay quickly and securely, with a real-time view of their business. Over 3000 customers in over 100 countries use our source-to-pay, cash management and product information management solutions to connect, transact and grow."
               },
               {
+                title: "oura",
+                href: "https://ouraring.com",
+                img: require("@/assets/img/users/oura.png"),
+                text:
+                  "Oura Health Ltd. is a Finnish health technology company, best known for the Oura Ring, a smart ring used to track sleep and physical activities."
+              },
+              {
                 title: "ouro",
                 href: "https://www.ouro.fi/",
                 img: require("@/assets/img/users/ouro.png"),
