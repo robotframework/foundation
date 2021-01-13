@@ -69,6 +69,27 @@ export default {
           }
         },
         {
+          title: "board",
+          text_block: true,
+          tab_box: false,
+          feature_box: false,
+          data: {
+            text: {
+              header: "Board",
+              text:
+                `<p>
+                  Ismo Aro (Chairman of the Board - <a href="mailto: ismo.aro@northcode.fi">contact</a>)<br>
+                  Tatu Kairi (Secretary)<br>
+                  Ossi Koivistoinen (Vice Chairman of the Board)<br>
+                  Antti Karjalainen<br>
+                  Hanna Saari<br>
+                  René Rohner<br>
+                  Ari Alsi<br>
+                </p>`
+            }
+          }
+        },
+        {
           title: "Members",
           text_block: true,
           tab_box: false,
