@@ -44,25 +44,22 @@ export default {
         {
           isActive: true,
           users: "1-10",
-          fee: "1000€"
+          fee: "1500€"
         },
         {
           isActive: false,
-          age: 21,
           users: "11-50",
-          fee: "2000€"
+          fee: "3000€"
         },
         {
           isActive: false,
-          age: 89,
           users: "51-250",
-          fee: "4000€"
+          fee: "6000€"
         },
         {
           isActive: true,
-          age: 38,
           users: "251-",
-          fee: "8000€"
+          fee: "12000€"
         }
       ],
       options: {

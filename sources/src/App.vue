@@ -78,13 +78,14 @@ export default {
               header: "Board",
               text:
                 `<p>
-                  Ismo Aro (Chairman of the Board - <a href="mailto: ismo.aro@northcode.fi">contact</a>)<br>
-                  Tatu Kairi (Secretary)<br>
-                  Ossi Koivistoinen (Vice Chairman of the Board)<br>
+                  Ismo Aro (Chairman of the Board - <a href="mailto: chair@robotframework.org">contact</a>)<br>
+                  René Rohner (Vice Chairman of the Board)<br>
+                  Katri Ordning (Secretary)<br>
                   Antti Karjalainen<br>
-                  Hanna Saari<br>
-                  René Rohner<br>
-                  Ari Alsi<br>
+                  Jani Haapala<br>
+                  Mikko Korpela<br>
+                  Hanna Saari<br><br>
+                  Treasurer: Miikka Salonen
                 </p>`
             }
           }
