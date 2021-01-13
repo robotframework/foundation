@@ -173,6 +173,13 @@ export default {
                   "Etteplan is a specialist in industrial equipment engineering, embedded systems and IoT and technical documentation solutions and services with deep knowledge in QA from network edge to cloud in Nordics. Etteplan provides also consulting services in test automation and QA process development."
               },
               {
+                title: "F2G Solutions",
+                href: "https://www.f2gsolutions.com",
+                img: require("@/assets/img/users/f2g.png"),
+                text:
+                  "5G testing, E2E automation and network quality assurance."
+              },
+              {
                 title: "facile",
                 href: "https://www.facile.it/",
                 img: require("@/assets/img/users/facile.png"),
