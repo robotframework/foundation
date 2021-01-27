@@ -216,6 +216,13 @@ export default {
                   "Finnair is using Robot Framework to support Finnair digital platform development."
               },
               {
+                title: "gofore",
+                href: "https://gofore.com/en/",
+                img: require("@/assets/img/users/gofore.png"),
+                text:
+                  "Gofore Plc is a Finnish digitalisation specialist with international growth plans. We’re made up of over 700 people across Finland, Germany, Spain, and Estonia – top experts in our industry who are our company’s heart, brain, and hands. We use consulting, coding and design as tools to incite positive change. We care for our people, our customers, and the surrounding world. We rely on RobotFramework at our consulting, coding, design and quality assurance. Learn to know us better at <a href='https://www.gofore.com'>www.gofore.com</a>."
+              },
+              {
                 title: "henix",
                 href: "https://www.henix.com",
                 img: require("@/assets/img/users/henix.png"),
@@ -326,13 +333,6 @@ export default {
                 img: require("@/assets/img/users/qfactory.jpg"),
                 text:
                   "Q-Factory is specialized in test automation and quality assurance services. Our expertise is based on strong project experience, and extensive testing and test tool knowledge. We emphasize on early software quality and we help fixing quality issues when it's most economical – before they are made."
-              },
-              {
-                title: "qentinel",
-                href: "http://qentinel.fi/",
-                img: require("@/assets/img/users/qentinel.png"),
-                text:
-                  "Qentinel is the leading robotic software testing company applying system thinking and AI to maximize value creation. We have over hundred enthusiastic specialists who create the next generation of automated QA without humans in the loop. We believe your business is as good as software driving it."
               },
               {
                 title: "reaktor",
