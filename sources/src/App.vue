@@ -328,6 +328,13 @@ export default {
                   "Ouro is a Finnish company providing software automation solutions, including test automation and CI/CD pipeline development. We enable our customers to use modern software development tools, methods and practices."
               },
               {
+                title: "qentinel",
+                href: "http://qentinel.fi/",
+                img: require("@/assets/img/users/qentinel.png"),
+                text:
+                  "Qentinel is the leading robotic software testing company applying system thinking and AI to maximize value creation. We have over hundred enthusiastic specialists who create the next generation of automated QA without humans in the loop. We believe your business is as good as software driving it."
+              },
+              {
                 title: "qfactory",
                 href: "http://www.q-factory.fi/",
                 img: require("@/assets/img/users/qfactory.jpg"),
