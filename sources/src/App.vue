@@ -69,6 +69,28 @@ export default {
           }
         },
         {
+          title: "board",
+          text_block: true,
+          tab_box: false,
+          feature_box: false,
+          data: {
+            text: {
+              header: "Board",
+              text:
+                `<p>
+                  Ismo Aro (Chairman of the Board - <a href="mailto: chair@robotframework.org">contact</a>)<br>
+                  René Rohner (Vice Chairman of the Board)<br>
+                  Katri Ordning (Secretary)<br>
+                  Antti Karjalainen<br>
+                  Jani Haapala<br>
+                  Mikko Korpela<br>
+                  Hanna Saari<br><br>
+                  Treasurer: Miikka Salonen
+                </p>`
+            }
+          }
+        },
+        {
           title: "Members",
           text_block: true,
           tab_box: false,
@@ -173,6 +195,13 @@ export default {
                   "Etteplan is a specialist in industrial equipment engineering, embedded systems and IoT and technical documentation solutions and services with deep knowledge in QA from network edge to cloud in Nordics. Etteplan provides also consulting services in test automation and QA process development."
               },
               {
+                title: "F2G Solutions",
+                href: "https://www.f2gsolutions.com",
+                img: require("@/assets/img/users/f2g.png"),
+                text:
+                  "5G testing, E2E automation and network quality assurance."
+              },
+              {
                 title: "facile",
                 href: "https://www.facile.it/",
                 img: require("@/assets/img/users/facile.png"),
@@ -185,6 +214,13 @@ export default {
                 img: require("@/assets/img/users/finnair.jpg"),
                 text:
                   "Finnair is using Robot Framework to support Finnair digital platform development."
+              },
+              {
+                title: "gofore",
+                href: "https://gofore.com/en/",
+                img: require("@/assets/img/users/gofore.png"),
+                text:
+                  "Gofore Plc is a Finnish digitalisation specialist with international growth plans. We’re made up of over 700 people across Finland, Germany, Spain, and Estonia – top experts in our industry who are our company’s heart, brain, and hands. We use consulting, coding and design as tools to incite positive change. We care for our people, our customers, and the surrounding world. We rely on RobotFramework at our consulting, coding, design and quality assurance. Learn to know us better at <a href='https://www.gofore.com'>www.gofore.com</a>."
               },
               {
                 title: "henix",
@@ -292,18 +328,18 @@ export default {
                   "Ouro is a Finnish company providing software automation solutions, including test automation and CI/CD pipeline development. We enable our customers to use modern software development tools, methods and practices."
               },
               {
-                title: "qfactory",
-                href: "http://www.q-factory.fi/",
-                img: require("@/assets/img/users/qfactory.jpg"),
-                text:
-                  "Q-Factory is specialized in test automation and quality assurance services. Our expertise is based on strong project experience, and extensive testing and test tool knowledge. We emphasize on early software quality and we help fixing quality issues when it's most economical – before they are made."
-              },
-              {
                 title: "qentinel",
                 href: "http://qentinel.fi/",
                 img: require("@/assets/img/users/qentinel.png"),
                 text:
                   "Qentinel is the leading robotic software testing company applying system thinking and AI to maximize value creation. We have over hundred enthusiastic specialists who create the next generation of automated QA without humans in the loop. We believe your business is as good as software driving it."
+              },
+              {
+                title: "qfactory",
+                href: "http://www.q-factory.fi/",
+                img: require("@/assets/img/users/qfactory.jpg"),
+                text:
+                  "Q-Factory is specialized in test automation and quality assurance services. Our expertise is based on strong project experience, and extensive testing and test tool knowledge. We emphasize on early software quality and we help fixing quality issues when it's most economical – before they are made."
               },
               {
                 title: "reaktor",
@@ -369,11 +405,11 @@ export default {
                   "Testimate provides comprehensive and independent high-quality software testing services for small and large systems or products. Our employees are versatile testing experts with several years of experience in testing, managing and leading testing and test automation using commercial and open source tools. We know we are good at what we do – and our clients agree!"
               },
               {
-                title: "tieto",
-                href: "http://www.tieto.com/",
-                img: require("@/assets/img/users/tieto.jpg"),
+                title: "tietoevry",
+                href: "https://www.tietoevry.com/",
+                img: require("@/assets/img/users/tietoevry.png"),
                 text:
-                  "Tieto aims to capture the significant opportunities of the data-driven world and turn them into lifelong value for people, business and society. We aim to be customers' first choice for business renewal by combining our software and services capabilities with a strong drive for co-innovation and ecosystems."
+                  "TietoEVRY creates digital advantage for businesses and society. We are a leading digital services and software company with local presence and global capabilities. Our Nordic values and heritage steer our success.<br><br>Headquartered in Finland, TietoEVRY employs around 24 000 experts globally. The company serves thousands of enterprise and public sector customers in more than 90 countries."
               },
               {
                 title: "vala",
