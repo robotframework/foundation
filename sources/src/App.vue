@@ -178,7 +178,7 @@ export default {
                 href: "http://www.eficode.fi/",
                 img: require("@/assets/img/users/eficode.jpg"),
                 text:
-                  "Eficode is the leading devops company in Finland. Our services rely on automation, virtualisation and smart tool choices. Boring work tasks are left for robots while people get to focus on the best part of software production: creative and client-centred development work."
+                  "Eficode is the leading DevOps company in Europe, driving the DevOps and Agile movement and building the future of software development across seven countries with over 400 professionals. Eficode guides customers with DevOps and Agile skills and practices, and enables them to focus on their growth and customers with Eficode ROOT DevOps Platform: a managed service with over 40 preferred tools including Atlassian, Jenkins and Kubernetes; along with our Application Management and Atlassian services."
               },
               {
                 title: "eliga",
