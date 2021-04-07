@@ -293,6 +293,13 @@ export default {
                   "Nokia develops and delivers the telecommunications industry's only end-to-end portfolio of network equipment, software, services and licensing that is available globally. Nokia also serves consumers with technology and devices. First versions of Robot Framework were developed in Nokia and Robot Framework is extensively used and developed further in Nokia today."
               },
               {
+                title: "nordea",
+                href: "https://www.nordea.com/en/",
+                img: require("@/assets/img/users/nordea.png"),
+                text:
+                  "Nordea is a leading Nordic universal bank. We are helping our customers realise their dreams and aspirations – and we have done that for 200 years. We want to make a real difference for our customers and the communities where we operate – by being a strong and personal financial partner. The Nordea share is listed on the Nasdaq Helsinki, Nasdaq Copenhagen and Nasdaq Stockholm exchanges."
+              },
+              {
                 title: "northcode",
                 href: "https://www.northcode.fi/",
                 img: require("@/assets/img/users/northcode.png"),
