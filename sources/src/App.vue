@@ -384,13 +384,6 @@ export default {
                   "We are a modern, full-service technology company. We help you create better business and meaningful digital experiences by combining strategic insight, creative design, data management, and technology expertise."
               },
               {
-                title: "sisua digital",
-                href: "https://www.sisuadigital.com",
-                img: require("@/assets/img/users/sisua.png"),
-                text:
-                  "We create growth for our customers from digitalization, robotics and AI"
-              },
-              {
                 title: "sleepIQ",
                 href: "https://bamlabs.com/",
                 img: require("@/assets/img/users/sleepiq.png"),
