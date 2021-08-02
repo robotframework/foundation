@@ -251,6 +251,13 @@ export default {
                   "imbus is a German leading solution partner for professional software testing and intelligent software quality assurance. The portfolio includes consulting for process improvement as well as test automation, test tools, and training. Since 1992, imbus has been synonymous with smart test automation."
               },
               {
+                title: "ing group",
+                href: "https://www.ing.com/Home.htm",
+                img: require("@/assets/img/users/ing.png"),
+                text:
+                  "The ING Group is a Dutch multinational banking and financial services corporation headquartered in Amsterdam. Its primary businesses are retail banking, direct banking, commercial banking, investment banking, wholesale banking, private banking, asset management, and insurance services. At the heart of the bank in the Netherlands, NL Corebank we use Robot Framework to test our applications."
+              },
+              {
                 title: "knowit",
                 href: "http://www.knowit.fi/",
                 img: require("@/assets/img/users/knowit.jpg"),
