@@ -62,9 +62,22 @@ export default {
           data: {
             text: {
               priceTable: true,
-              header: "How to join",
+              header: 'How to join',
               text:
-                "<p> The main benefit of being a member is assuring the future of Robot Framework. A more concrete benefit is that these member companies and organizations are listed here, making their Robot Framework knowledge or usage more visible. <br><br>If the company or organization you represent is interested to join:<br>1) Fill in the following application: <a href='https://forms.gle/devoS2X3jEyqBE1x7' target='blank'>https://forms.gle/devoS2X3jEyqBE1x7</a><br>2) We’ll make a voting according to our rules<br>3) You are added to the webpage and mailing list, when you are accepted<br>4) Welcome to make the world of Open Source and Automation better!<br><br>If you have any questions related to the membership, please send an email to <a href='mailto:robotframework-foundation@googlegroups.com'>robotframework-foundation@googlegroups.com</a> and we will get back to you.<br><br></b><b>For existing members</b><br>If your contact person changes and for other such matters, please contact <a href='mailto:admin@robotframework.org'>admin@robotframework.org</a></b></p>",
+                `<p><b>Robot Framework Foundation</b> ensures the development of Robot Framework and related tools. When your company becomes a member you:
+<br>1) Ensure Robot Framework is maintained and developed
+<br>2) Get visibility about your membership for your company if you wish
+<br>3) Gain ability to participate in decision making
+<br>4) Get all this for affordable price per user
+<br><br><b>To join:</b>
+<br>1) Fill in the following application: <a href='https://forms.gle/devoS2X3jEyqBE1x7' target='blank'>https://forms.gle/devoS2X3jEyqBE1x7</a>
+<br>2) We’ll make a voting according to our rules<br>3) You are added to the webpage and mailing list, when you are accepted
+<br>4) Welcome to make the world of Open Source and Automation better!
+<br><br>If you have any questions related to the membership, please send an email to <a href='mailto:robotframework-foundation@googlegroups.com'>robotframework-foundation@googlegroups.com</a> and we will get back to you.
+<br><br><b>For existing members</b>
+<br>If your contact person changes and for other such matters, please contact <a href='mailto:admin@robotframework.org'>admin@robotframework.org</a>
+</b>
+</p>`
             }
           }
         },
